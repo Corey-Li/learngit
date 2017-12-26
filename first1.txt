@@ -1,2 +1,3 @@
 This is my first file managed by Notepad++.
 Now I add one more sentence to this txt file.
+add another one sentence.
